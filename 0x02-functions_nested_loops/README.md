@@ -1,4 +1,4 @@
-**C - Functions, nested loops**
+# C - Functions, nested loops
 In this project, We learned about nested loops, header files, and variable scope in C while practicing declaring and defining our own functions.
 ##Tasks##
 ####0. _putchar####
