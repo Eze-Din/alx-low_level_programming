@@ -1,50 +1,50 @@
-#C - Functions, nested loops
+#C - Functions, nested loops#
 In this project, We learned about nested loops, header files, and variable scope in C while practicing declaring and defining our own functions.
-##Tasks
-####0. _putchar
+##Tasks##
+####0. _putchar####
 
-####1. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
-
-
-####2. 10 x alphabet
+####1. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game####
 
 
-####3. islower
+####2. 10 x alphabet####
 
 
-####4. isalpha
+####3. islower####
 
 
-####5. Sign
+####4. isalpha####
 
 
-####6. There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you
+####5. Sign####
 
 
-####7. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important
+####6. There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you####
 
 
-####8. I'm federal agent Jack Bauer, and today is the longest day of my life
+####7. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important####
 
 
-####9. Learn your times table
+####8. I'm federal agent Jack Bauer, and today is the longest day of my life####
 
 
-####10. a + b
+####9. Learn your times table####
 
 
-####11. 98 Battery Street, the OG
+####10. a + b####
 
 
-####12. The World looks like a multiplication-table, or a mathematical equation, which, turn it how you will, balances itself
+####11. 98 Battery Street, the OG####
 
-####13. Nature made the natural numbers; All else is the work of women
 
-####14. In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers. Instead, I wrote a program that would steal passwords of students. My teacher gave me an A
+####12. The World looks like a multiplication-table, or a mathematical equation, which, turn it how you will, balances itself####
 
-####15. Even Liber Abbaci
+####13. Nature made the natural numbers; All else is the work of women####
 
-####16. In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers. Instead, I wrote a program that would steal passwords of students. My teacher gave me an A+
+####14. In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers. Instead, I wrote a program that would steal passwords of students. My teacher gave me an A####
+
+####15. Even Liber Abbaci####
+
+####16. In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers. Instead, I wrote a program that would steal passwords of students. My teacher gave me an A+####
 
 >Difficulties make the victim more stronger!
-#####Eze Din
+#####Eze Din#####
